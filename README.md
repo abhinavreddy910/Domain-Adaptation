@@ -9,4 +9,5 @@ Domain adapatation has been done from source-domain 'Webcam' to the target-domai
 
 The Domain-adversarial neural network architecture proposed by [Ganin and Lempitsky,2015](http://jmlr.org/proceedings/papers/v37/ganin15.html) has been implemented
 
-The accuracies of the source-only model is 93.37%, train-on-target is 98% and the domain adaptation model is 97.73%
+The accuracies of the baselines, source-only and train-on-target, as outlined in the above paper, are 93.37% and 98% respectively
+<br/>The domain adaptation model achieves an accuracy of 97.73%
